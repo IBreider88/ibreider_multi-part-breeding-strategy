@@ -1,3 +1,5 @@
+#Breider et al. 2022 DOI: 10.21203/rs.3.rs-1246254/v1
+#
 #Start TwoPart off from burnin, burnin gives 500 inds (PYT, AYT,EYT)
 Start2Part=Start2Part[sample.int(nInd(Start2Part))] #Randomises the order of individuals in the population
 Start2Part=randCross(Start2Part,(GenoInPI/nCyclesBr)) #Randomly crosses individuals in the population, number of crosses depends on genotyping budget for the breeding cycle
