@@ -1,3 +1,5 @@
+#Breider et al. 2022 DOI: 10.21203/rs.3.rs-1246254/v1
+#
 JOB = Sys.getenv("SGE_TASK_ID") #JOBREP 1 to 10
 
 library(AlphaSimR) #Load library
