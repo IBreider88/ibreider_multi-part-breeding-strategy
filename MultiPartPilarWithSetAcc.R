@@ -1,6 +1,7 @@
 #Author: I.S. Breider
 #This script uses R version 4.0.0 (2020-04-24) "Arbor Day" and AlphaSimR 0.12.2 
-
+#Breider et al. 2022 DOI: 10.21203/rs.3.rs-1246254/v1
+#
 library(AlphaSimR) #Load AlphaSimR
 
 args <- commandArgs(trailingOnly = TRUE) #Read in arguments from commandline
