@@ -1,3 +1,5 @@
+#Breider et al. 2022 DOI: 10.21203/rs.3.rs-1246254/v1
+#
 #SnapShots taken for further analyses
 if(YEAR==1|YEAR==2|YEAR==3|YEAR==4|YEAR==5|YEAR==6|YEAR==7|YEAR==8|YEAR==9|YEAR==10|YEAR==20|YEAR==30|YEAR==40|YEAR==50|YEAR==60|YEAR==70|YEAR==80|YEAR==90|YEAR==100){assign(paste("StartofPI_SnapShot_Year", YEAR, sep = "_"),mergePops(list(ProduceFemales,ProduceMales)))}
 #Start next cycle by choosing 100 males and 100 females
