@@ -1,3 +1,5 @@
+#Breider et al. 2022 DOI: 10.21203/rs.3.rs-1246254/v1
+#
 #Origin of parents at start of bridge
 if(InitBR1==FALSE){ #Either nBridges==0 , BR1 is already initiated, or it is too early to initiate BR1)
   NextBR1=NextBR1[sample.int(nInd(NextBR1))]#Randomises the order of individuals in the population
