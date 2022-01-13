@@ -1,3 +1,5 @@
+#Breider et al. 2022 DOI: 10.21203/rs.3.rs-1246254/v1
+#
 #initiate bridges
 #Prepare for initial cross. Select Elite individuals for F1 cross.
 if(((YEAR==1)&(nCyclesBr==1)&(SecondCycle==TRUE))||((YEAR==1)&(i>1)&(i==nCyclesBr))){  #The year before the first bridge is initiated and last cycle of the year.
