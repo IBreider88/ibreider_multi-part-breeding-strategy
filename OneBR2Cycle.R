@@ -1,3 +1,5 @@
+#Breider et al. 2022 DOI: 10.21203/rs.3.rs-1246254/v1
+#
 if(InitBR2==FALSE){ #Either nBridges <2, BR2 is already initiated, or it is too early to initiate BR2)
   NextBR2=NextBR2[sample.int(nInd(NextBR2))] #Randomises the order of individuals in the population
   #Introgression on parents, preparing female and male parent sub populations.
