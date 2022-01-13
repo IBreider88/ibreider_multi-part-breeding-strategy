@@ -1,3 +1,5 @@
+#Breider et al. 2022 DOI: 10.21203/rs.3.rs-1246254/v1
+#
 load(Sys.glob("*Combined.rda")) #loads combined results
 fileName <- Sys.glob("*1Output.rda") #gets me the correct name for the variable containing genGain
 fileName<-strsplit(fileName, "_") #gets me the correct name for the variable containing genGain
