@@ -1,3 +1,5 @@
+#Breider et al. 2022 DOI: 10.21203/rs.3.rs-1246254/v1
+#
 #exPVP breeding program 1
 VARex1 = selectInd(EYT2ex1,2) #Two varieties are produced
 EYT2ex1 = EYT1ex1 #Last year's EYT1ex1 becomes this year's EYT2ex1
