@@ -1,3 +1,5 @@
+#Breider et al. 2022 DOI: 10.21203/rs.3.rs-1246254/v1
+#
 #This script sets the variables exit and NextReceives depending on the number of breeding cycles per year and exit rate.
 #exit is used to determine whether germplasm leaves a breeding component in this cycle, NextReceives determines whether the next cycle receives germplasm.
 #When number of breeding cycles > exit rate, germplasm leaves the breeding components in the later cycles. 
