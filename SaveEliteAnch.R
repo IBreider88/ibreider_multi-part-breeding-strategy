@@ -1,3 +1,5 @@
+#Breider et al. 2022 DOI: 10.21203/rs.3.rs-1246254/v1
+#
 #To save the IDs of the elite population at the end of the burnin. To be used to gain insight in haploblock origin.
 #This should have been done in burnin, but I forgot.
 #To extract ancestor IDs from F1
